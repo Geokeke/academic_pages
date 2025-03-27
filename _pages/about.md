@@ -27,4 +27,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there!
+> To unveil the cosmic dance of nature and humankind,
+>
+> to trace the pulse of time from antiquity to now,
+>
+> and to forge a legacy etched in my own voice.
+> 
+> —— Sima Qian
+
+> 亦欲以究天人之际，
+>
+> 通古今之变，
+>
+> 成一家之言。
+>
+> —— 司马迁
